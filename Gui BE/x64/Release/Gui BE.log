@@ -1,0 +1,5 @@
+﻿  Создание кода
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 198 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Gui BE.vcxproj -> C:\Users\nekit\Desktop\work\programs-relis\Breed_editor_GUI\x64\Release\Gui BE.exe

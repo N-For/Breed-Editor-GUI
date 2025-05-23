@@ -1,0 +1,38 @@
+{breed
+{behaviour 1}
+{skin "2"}
+{portrait 1}
+{icon 3}
+{icon_priority 0}
+{tags "4"}
+{nationality 5}
+{voice 5}
+{armors
+{head 1}
+}
+{perks
+{"rifle" lvl_23}
+{"melee" lvl_9}
+{"pistol" lvl_4}
+{"smg" lvl_5}
+{"mgun" lvl_6}
+{"rocketlauncher" lvl_8}
+{"at_rifle" lvl_7}
+{"speed" lvl_10}
+{"stamina" "1%"}
+{"stamina_regeneration" "1%"}
+{"health" "11%"}
+{"health_regeneration" "1%"}
+}
+{veterancy
+{"lvl_1" 1}
+{"lvl_2" 1}
+{"lvl_3" 1}
+{"lvl_4" 1}
+{"lvl_5" 1}
+}
+{inventory
+{item "1"}
+{item "1 ammo" 1 }
+}
+}
